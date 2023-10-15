@@ -1,0 +1,28 @@
+.box1{
+    display: flex;
+    width: 1750px;
+}
+.h1{
+    display: flex;
+    
+}
+.box2{
+    display:flex;
+   
+
+    
+}
+.box3{
+    display: flex;
+   margin-left: 645px;
+}
+.box4{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 100px;
+    width: 500px;
+}
+.box5{
+    display: flex;
+    width: 1700px;
+}
